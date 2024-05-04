@@ -14,6 +14,7 @@
 // limitations under the License.
 
 soong_namespace {
+    imports: ["vendor/nxp/secure_element"],
 }
 
 package {
